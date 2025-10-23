@@ -1,6 +1,7 @@
 # OpenHIM Administration Console
 
 [![Build Status](https://travis-ci.org/jembi/openhim-console.svg?branch=master)](https://travis-ci.org/jembi/openhim-console) [![OpenHIM Core](https://img.shields.io/badge/openhim--core-3.4.x-brightgreen.svg)](http://openhim.readthedocs.org/en/v3.4.2/user-guide/versioning.html)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Farmageddon%2Fopenhim-console.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Farmageddon%2Fopenhim-console?ref=badge_shield)
 
 This application provides a web application to configure and manage the [OpenHIM-core component](https://github.com/jembi/openhim-core-js). It provides the following features:
 
@@ -224,3 +225,7 @@ Refer to [this blog](https://developers.redhat.com/blog/2014/05/05/running-syste
 You may view/add issues here: <https://github.com/jembi/openhim-console/issues>
 
 To contribute code, please fork the repository and submit a pull request. The maintainers will review the code and merge it in if all is well.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Farmageddon%2Fopenhim-console.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Farmageddon%2Fopenhim-console?ref=badge_large)
